@@ -1,0 +1,35 @@
+Toward deep learning
+http://neuralnetworksanddeeplearning.com/chap1.html
+
+
+
+https://www.datacamp.com/community/tutorials/keras-r-deep-learning
+
+
+
+
+https://www.manning.com/books/deep-learning-with-r
+
+
+
+
+
+
+
+
+
+using :
+
+https://www.analyticsvidhya.com/blog/2017/06/getting-started-with-deep-learning-using-keras-in-r/
+
+
+
+
+
+
+
+used :
+
+1) https://github.com/lucko515/sentiment-analysis/blob/master/movie_reviews_sentiment_analysis.ipynb
+
+2)https://github.com/vyomshm/Sentiment-RNN/blob/master/Sentiment%20RNN%20Solution.ipynb
